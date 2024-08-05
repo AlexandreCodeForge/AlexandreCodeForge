@@ -13,9 +13,6 @@
 - 🎯 Objetivo: Tornar-me um desenvolvedor front-end profissional
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexandreCodeForge&show_icons=true&theme=radical)
-### 🌐 Linguagens Mais Usadas
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCodeForge&layout=compact&theme=radical)
 
 ### 🛠️ Tecnologias e Ferramentas
 
