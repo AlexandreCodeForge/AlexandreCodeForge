@@ -1,4 +1,6 @@
 ## 👋 Olá! Me Chamo Alexandre
+  Tenho 30 Anos
+  🚀 Apaixonado por aprender e desenvolver projetos
 
 ### 💻 Estudante de Desenvolvimento de Sistemas no SENAI
 
