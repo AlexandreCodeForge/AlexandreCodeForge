@@ -1,4 +1,4 @@
-## 👋 Olá! Eu me Chamo Alexandre
+## 👋 Olá! Me Chamo Alexandre
 
 ### 💻 Estudante de Desenvolvimento de Sistemas no SENAI
 
