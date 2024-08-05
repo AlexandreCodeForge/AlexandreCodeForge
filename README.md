@@ -12,4 +12,7 @@
 - 💼 Atualmente trabalhando em projetos pessoais para aprimorar minhas habilidades
 - 🎯 Objetivo: Tornar-me um desenvolvedor front-end profissional
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AlexandreCodeForge&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexandreCodeForge&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCodeForge&layout=compact&theme=radical)
+
